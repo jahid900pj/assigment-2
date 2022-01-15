@@ -1,0 +1,63 @@
+body{
+    font-family: 'Roboto', sans-serif;
+   
+}
+
+/* ------header------ */
+
+.header{
+    margin-left: 10% ;
+    margin-top: 5%;
+}
+
+/* -----start journey----- */
+
+.contenar{
+    margin-left: 10% ;
+    margin-top: 10%;
+    display: flex;
+    
+}
+.start-Journey{
+    width: 50%;
+}
+.start-Journey h1{
+    font-size: 3.5em;
+}
+.start-Journey p{
+font-weight: 500;
+margin-bottom: 40px;
+}
+.start-Journey a{
+    background-color: tomato;
+    color: white;
+    padding: 13px 35px;
+    border-radius: 40px;
+    text-decoration: none;
+    font-weight: 800;
+    
+    
+}
+
+
+.start-Journey>a>i{
+    font-size:1.1em;
+    margin-top: 3px;
+    padding-left: 10px;
+}
+
+
+
+
+
+.start-Journey-img{
+    width: 50%;
+
+}
+.start-Journey-img img{
+    margin-left: 10%;
+    margin-bottom: 15%;
+}
+
+
+
